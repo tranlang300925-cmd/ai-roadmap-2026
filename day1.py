@@ -1,3 +1,4 @@
-print ("xin chào các bạn")
-name = input ("mình tên là Trần Lãng")
-print ("chào mừng", name, "đến với quá trình học AI")
+name = ("Trần Lãng")
+namsinh = 2005
+old = 2026 - namsinh
+print ("xin chào bạn", name,"!!! năm nay mình", old, "tuổi")
